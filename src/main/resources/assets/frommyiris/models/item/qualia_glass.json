@@ -1,0 +1,6 @@
+﻿{
+  "parent": "item/spyglass",
+  "textures": {
+    "layer0": "frommyiris:item/qualia_glass"
+  }
+}

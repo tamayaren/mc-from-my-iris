@@ -1,0 +1,20 @@
+{
+  "qualia_glass_toggle_off": {
+    "sounds": [
+      {
+        "name": "frommyiris:qualia_glass_toggle_off",
+        "stream": false
+      }
+    ],
+    "subtitle": "subtitles.frommyiris.qualia_glass_toggle_off"
+  },
+  "qualia_glass_toggle_on": {
+    "sounds": [
+      {
+        "name": "frommyiris:qualia_glass_toggle_on",
+        "stream": false
+      }
+    ],
+    "subtitle": "subtitles.frommyiris.qualia_glass_toggle_on"
+  }
+}
