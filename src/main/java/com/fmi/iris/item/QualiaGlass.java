@@ -52,7 +52,6 @@ public class QualiaGlass extends Item {
             level.playSound(null, player.getX(), player.getY(), player.getZ(), sound, SoundSource.AMBIENT, 1.0F, 1.0F);
 
             player.addEffect(new MobEffectInstance(MobEffects.DARKNESS, 10, 0));
-            player.sendSystemMessage(Component.literal("QGLASS_STATE_" + Boolean.toString(currentState).toUpperCase()));
 
             if (currentState) {
                 Minecraft.getInstance().getMusicManager().stopPlaying();
